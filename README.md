@@ -14,9 +14,9 @@
 ## The repository consists of the following files:
 
 1. __`ADM-HW4.ipynb`__: 
-	> A Jupyter notebook which provides the solutions to all questions. The notebook consists of outputs, comments, theoretical answers and further explanations.
+	> A Jupyter notebook which provides the solutions to all questions. The notebook consists of outputs, comments, visualizations and further explanations.
 2. __`hashing_functions.py`__:
-    > A Python script containing the hashing functions used in the `ADM-HW3.ipynb` plus useful docstrings for the user.  
-3. __`hashing_functions.py`__:
-    > A Python script containing the hashing functions used in the `ADM-HW3.ipynb` plus useful docstrings for the user.
+    > A Python script containing the hashing functions used in the `ADM-HW4.ipynb` plus useful docstrings for the user.  
+3. __`clustering_functions.py`__:
+    > A Python script containing the clustering functions used in the `ADM-HW4.ipynb` plus useful docstrings for the user.
 
